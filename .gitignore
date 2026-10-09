@@ -1,0 +1,21 @@
+# Python portable - ne pas pousser
+Lib/
+Scripts/
+Include/
+python.exe
+pythonw.exe
+*.dll
+*.pyd
+*.zip
+get-pip.py
+python.cat
+python312._pth
+LICENSE.txt
+app/
+
+# Projet
+__pycache__/
+*.db
+venv/
+.env
+.vscode/
